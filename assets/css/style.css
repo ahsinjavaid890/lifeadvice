@@ -11323,4 +11323,7 @@ ul.tabs li.current{
 .col-md-3.blog-btn {
     max-width: 50% !important;
 }
+.heroSlider-fixed .slick-slide{
+    width: 130px !important;
+}
 }
