@@ -221,45 +221,48 @@ include 'app_url.php';
    <div class="row mt-5 pb-5">
        <div class="col-md-4">
            <div class="card slider-card border-0">
-               <div class="card-body">
-                   <div class="check-image">
-                       <img src="assets/img/images/people-travel.png">
-                   </div>
-                   <h2 class="text-center"><span>Travel</span></h2>
-                   <h2 class="text-center">Insurance</h2>
-                   <div class="policies-text">
-                       <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. </p>
-                   </div>
-               </div>
-           </div>
+             <div class="card-body text-center">
+                <div class="simple-online-transparent-slider">
+                   <img src="assets/img/images/family.png">
+                </div>
+                <div class="slider-heading">
+                   <h2><span>Super Visa </span> Insurance</h2>
+                </div>
+                <div class="slider-pargraph">
+                   <p>Super Visa Insurance is needed when you apply for a Super Visa for your family, parents or grand-parents.</p>
+                </div>
+             </div>
+          </div>
        </div>
        <div class="col-md-4">
            <div class="card slider-card border-0">
-               <div class="card-body">
-                   <div class="check-image">
-                       <img src="assets/img/images/circle-travel.png">
-                   </div>
-                   <h2 class="text-center"><span>Super Visa</span></h2>
-                   <h2 class="text-center">Insurance</h2>
-                   <div class="policies-text">
-                       <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. </p>
-                   </div>
-               </div>
-           </div>
+             <div class="card-body text-center">
+                <div class="simple-online-transparent-slider">
+                   <img src="assets/img/images/bed.png">
+                </div>
+                <div class="slider-heading">
+                   <h2><span>Visitors</span> Insurance</h2>
+                </div>
+                <div class="slider-pargraph">
+                   <p>Visitors Insurance travel insurance offers flexible, affordable emergency medical coverage to visitor.</p>
+                </div>
+             </div>
+          </div>
        </div>
        <div class="col-md-4">
            <div class="card slider-card border-0">
-               <div class="card-body">
-                   <div class="check-image">
-                       <img src="assets/img/images/scholarship.png">
-                   </div>
-                   <h2 class="text-center"><span>Student</span></h2>
-                   <h2 class="text-center">Insurance</h2>
-                   <div class="policies-text">
-                       <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. </p>
-                   </div>
-               </div>
-           </div>
+             <div class="card-body text-center">
+                <div class="simple-online-transparent-slider">
+                   <img src="assets/img/images/bed.png">
+                </div>
+                <div class="slider-heading">
+                   <h2><span>Travel</span> Insurance</h2>
+                </div>
+                <div class="slider-pargraph">
+                   <p>Travel Insurance protects you and your luggage against many perils you may come across while traveling abroad.</p>
+                </div>
+             </div>
+          </div>
        </div>  
    </div>
     </div>
