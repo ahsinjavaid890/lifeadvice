@@ -572,17 +572,17 @@ include 'db_connect.php';
          text-decoration: none !important;
          }
       </style>
-      <!-- End Business Contact Area -->
-      <section class="pb-5 pt-5">
-         <div class="business-contact-area-five mt-5">
-            <div class="container-homepage">
-               <div class="faq-heading text-center">
-                  <h2>Faq's</h2>
-               </div>
-               <div class="col-md-12">
-                  <div class="accordion mt-5" id="accordionExample">
+<section class="fifth-section">
+    <div class="container">
+        <div class="calculate-heading" style="text-align: center;">
+            <h2><span>Frequently Asked Question </span>(FAQ)</h2>
+        </div>
+        <div class="benifitrow faq">
+            <div class="col-md-12" style="padding-left: inherit;">
+               <div id="tab-4" class="tab-content current">
+                  <div class="accordion" id="accordionExample">
                      <div class="card">
-                        <div class="card-header faq-header" id="faq1">
+                        <div class="card-header" id="faq1">
                            <h5 class="mb-0">
                               <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#faq_content1" aria-expanded="false" aria-controls="collapseOne">
                               <i class="fa fa-plus"></i> What is Critical Illness Insurance?
@@ -596,7 +596,7 @@ include 'db_connect.php';
                         </div>
                      </div>
                      <div class="card">
-                        <div class="card-header faq-header" id="faq2">
+                        <div class="card-header" id="faq2">
                            <h5 class="mb-0">
                               <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#faq_content2" aria-expanded="false" aria-controls="collapseTwo">
                               <i class="fa fa-plus"></i>Why do I need Critical Illness insurance?
@@ -610,7 +610,7 @@ include 'db_connect.php';
                         </div>
                      </div>
                      <div class="card">
-                        <div class="card-header faq-header" id="faq3">
+                        <div class="card-header" id="faq3">
                            <h5 class="mb-0">
                               <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#faq_content3" aria-expanded="false" aria-controls="collapseThree">
                               <i class="fa fa-plus"></i>  What does a Critical Illness insurance plan cover?
@@ -637,7 +637,7 @@ include 'db_connect.php';
                         </div>
                      </div>
                      <div class="card">
-                        <div class="card-header faq-header" id="faq4">
+                        <div class="card-header" id="faq4">
                            <h5 class="mb-0">
                               <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#faq_content4" aria-expanded="false" aria-controls="collapseThree">
                               <i class="fa fa-plus"></i> I have life insurance plan, do I still need Critical Illness insurance?
@@ -651,7 +651,7 @@ include 'db_connect.php';
                         </div>
                      </div>
                      <div class="card">
-                        <div class="card-header faq-header" id="faq5">
+                        <div class="card-header" id="faq5">
                            <h5 class="mb-0">
                               <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#faq_content5" aria-expanded="false" aria-controls="collapseThree">
                               <i class="fa fa-plus"></i> I have health insurance plan, Am I still covered?
@@ -665,7 +665,7 @@ include 'db_connect.php';
                         </div>
                      </div>
                      <div class="card">
-                        <div class="card-header faq-header" id="faq6">
+                        <div class="card-header" id="faq6">
                            <h5 class="mb-0">
                               <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#faq_content6" aria-expanded="false" aria-controls="collapseThree">
                               <i class="fa fa-plus"></i> Will critical illness insurance benefits affect my disability benefit amount?
@@ -679,7 +679,7 @@ include 'db_connect.php';
                         </div>
                      </div>
                      <div class="card">
-                        <div class="card-header faq-header" id="faq7">
+                        <div class="card-header" id="faq7">
                            <h5 class="mb-0">
                               <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#faq_content7" aria-expanded="false" aria-controls="collapseThree">
                               <i class="fa fa-plus"></i> How do I make a claim?
@@ -693,7 +693,7 @@ include 'db_connect.php';
                         </div>
                      </div>
                      <div class="card">
-                        <div class="card-header faq-header" id="faq8">
+                        <div class="card-header" id="faq8">
                            <h5 class="mb-0">
                               <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#faq_content8" aria-expanded="false" aria-controls="collapseThree">
                               <i class="fa fa-plus"></i> Who can submit a claim?
@@ -713,12 +713,13 @@ include 'db_connect.php';
                      </div>
                   </div>
                </div>
-               <div class="faq-button mt-5 text-center">
+                 <div class="faq-button mt-5 text-center">
                   <a href="faq.php" class="btn btn-lg">View More</a>
                </div>
             </div>
-         </div>
-      </section>
+        </div>
+    </div>
+</section>
       <?php include 'include/footer.php';?>
       <div class="go-top go-top-five">
          <i class='bx bx-chevrons-up'></i>
