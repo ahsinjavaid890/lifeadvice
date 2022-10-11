@@ -410,7 +410,7 @@ include 'db_connect.php';
                               <p><?php echo substr($blog_text, 0, 400);?>...</p>
                            </div>
                            <div class="blogbutton">
-                              <a href="blog/<?php echo $blog_url;?>/<?php echo $blog_id;?>">Read More..</a>
+                              <a href="<?php echo $appurl; ?>blog.php?url=<?php echo $blog_url; ?>">Read More..</a>
                            </div>
                         </div>
                      </div>
