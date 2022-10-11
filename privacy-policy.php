@@ -10,28 +10,20 @@ include 'app_url.php';
 <body class="body-five">
 <?php include 'include/head.php';?>
 <div class="health-inssurance-hero-banner pt-5" style="background-color: #262566;">          
-    <div class="container-homepage">
-        <div class="row">
-            <style type="text/css">
-                .herrotext{
-                    font-size: 3rem;
-                }
-                .herrotext span{
-                    font-size: 3rem;
-                }
-            </style>
-            <div class="col-md-6">
-                <div class="herrotext">
-                    <h2 style="font-size: 3rem;" class="wow fadeInUp  text-white" data-wow-delay=".4s">Privacy Policy</h2>
-                </div>
+     <div class="container">
+      <div class="row">
+         <div class="col-md-6" style="margin-top: 100px;">
+            <div class="herrotexts">
+               <h2 style="font-size:3rem;" class="wow fadeInUp text-white product-heading" data-wow-delay=".4s">Privacy Policy</h2>
             </div>
-            <div class="col-md-6">
-                <div class="hero-image">
-                    <img src="assets/img/privacypolicy/header.gif">
-                </div>
+         </div>
+         <div class="col-md-6">
+            <div class="hero-image">
+               <img src="assets/img/images/contact.png">
             </div>
-        </div>
-    </div>
+         </div>
+      </div>
+   </div>
 </div>
 <div class="container-fluid py-5">
 <div class="container policy">
