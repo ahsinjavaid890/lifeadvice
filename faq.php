@@ -10,12 +10,12 @@ include 'app_url.php';
 </head>
 <body class="body-five">
 <?php include'include/head.php'?>
-<div class="health-inssurance-hero-banner pt-5">          
-    <div class="container-homepage">
+<div class="health-inssurance-hero-banner pt-5" style="background-color: #262566;">          
+    <div class="container">
         <div class="row">
             <div class="col-md-6">
                 <div class="herrotext">
-               <h2 class="wow fadeInUp" data-wow-delay=".4s"><span>Frequently  </span>Asked Questions </h2>
+               <h2 style="font-size: 3rem;" class="wow fadeInUp text-white" data-wow-delay=".4s">Frequently Asked Questions </h2>
                 </div>
             </div>
             <div class="col-md-6">
