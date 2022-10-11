@@ -185,7 +185,7 @@ include 'db_connect.php';
                       $blog_img = $fetch['blog_img'];
                       $blog_url = $fetch['blog_url'];
                 ?>
-                  <div class="col-md-3 blog-btn">
+                  <div class="col-md-3">
                      <div class="card blank-card">
                         <div class="card-body">
                            <div class="blog-image-card">
@@ -218,7 +218,7 @@ include 'db_connect.php';
                       $blog_img = $fetch['blog_img'];
                       $blog_url = $fetch['blog_url'];
                    ?>
-                  <div class="col-md-3 blog-btn">
+                  <div class="col-md-3">
                      <div class="card blank-card">
                         <div class="card-body">
                            <div class="blog-image-card">
@@ -251,7 +251,7 @@ include 'db_connect.php';
                       $blog_img = $fetch['blog_img'];
                       $blog_url = $fetch['blog_url'];
                    ?>
-                  <div class="col-md-3 blog-btn">
+                  <div class="col-md-3">
                      <div class="card blank-card">
                         <div class="card-body">
                            <div class="blog-image-card">
@@ -284,7 +284,7 @@ include 'db_connect.php';
                       $blog_img = $fetch['blog_img'];
                       $blog_url = $fetch['blog_url'];
                    ?>
-                  <div class="col-md-3 blog-btn">
+                  <div class="col-md-3">
                      <div class="card blank-card">
                         <div class="card-body">
                            <div class="blog-image-card">
