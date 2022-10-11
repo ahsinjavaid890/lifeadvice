@@ -81,7 +81,9 @@ if(isset($_GET['category_id']))
                            <img src="<?php echo $appurl; ?>quote/admin/blog/<?php echo $blog_img;?>">
                         </div>
                         <div class="card-content">
-                           <h3><?php echo $blog_title;?></h3>
+                            <a href="<?php echo $appurl; ?>blog.php?url=<?php echo $blog_url; ?>">
+                                <h3><?php echo $blog_title;?></h3>
+                            </a>
                            <p><?php echo substr($blog_text, 0, 400);?>...</p>
                         </div>
                         <div class="blogbutton">
