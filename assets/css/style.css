@@ -11274,10 +11274,16 @@ ul.tabs li.current{
     .text-section .herrotext h2{
         font-size: 12px !important;
     }
+    .mean-container .mean-bar{
+        height: 50px !important;
+    }
 }
 @media only screen and (min-width: 450px) and (max-width: 675px) {
     .text-section .herrotext h2{
         font-size: 16px !important;
+    }
+    .mean-container .mean-bar{
+        height: 50px !important;
     }
 }
 @media only screen and (min-width: 720px) and (max-width: 1100px) {
