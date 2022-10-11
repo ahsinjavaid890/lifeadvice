@@ -11309,3 +11309,18 @@ ul.tabs li.current{
         margin-top: 46px !important;
     }
 }
+@media only screen and (min-width: 350px) and (max-width: 760px){
+    .blogsproducts {
+    text-align: center;
+    padding: 10px;
+    background-color: #1bbc9b;
+    margin-bottom: 10px !important;
+    border-radius: 10px;
+    font-size: 13px !important;
+    color: white;
+    cursor: pointer;
+}
+.col-md-3.blog-btn {
+    max-width: 50% !important;
+}
+}
