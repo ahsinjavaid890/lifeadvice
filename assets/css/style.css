@@ -8106,7 +8106,7 @@ left: 95px;
     color: white;
 }
 .health-inssurance-hero-banner{
-    padding: 40px 50px 40px 15px;
+    /*padding: 40px 50px 40px 15px;*/
     margin-top: 70px;
     color: white;
 }
@@ -11240,6 +11240,15 @@ ul.tabs li.current{
     }
     .slider-heading h2 span{
         font-size: 26px !important;
+    }   
+    .super-images{
+        width: 920px !important;
+        position: absolute;
+        right: -101px;
+        height: 335px !important;
+    }
+    .super-hero{
+        height: 328px !important;
     }
     .board-image{
         width: 47px !important;
@@ -11326,4 +11335,16 @@ ul.tabs li.current{
 .heroSlider-fixed .slick-slide{
     width: 130px !important;
 }
+}
+.super-text{
+    max-width: 90%;
+}
+.super-images {
+    width: 1395px;
+    position: absolute;
+    right: -101px;
+    height: 390px;
+}
+.super-hero {
+    height: 383px;
 }

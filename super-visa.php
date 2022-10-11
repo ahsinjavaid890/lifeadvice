@@ -29,13 +29,13 @@ include 'app_url.php';
 </style>
 <body class="body-five">
 <?php include 'include/head.php';?>
-<div class="health-inssurance-hero-banner pt-5">          
+<div class="health-inssurance-hero-banner super-hero">          
     <div class="container-homepage">
         <div class="row mb-3">
             <div class="col-md-6">
                 <div class="herrotext">
                     <h2 class="wow fadeInUp" data-wow-delay=".4s"><span class="text-white">Super Visa </span> Insurance</h2>
-                    <h5 class="wow fadeInUp  text-justify" data-wow-delay=".6s"><span class="text-white">Super Visa Insurance is needed when you apply for a Super Visa for your family, parents or grand-parents.</span></h5>
+                    <h5 class="wow fadeInUp  text-justify super-text" data-wow-delay=".6s"><span class="text-white">Super Visa Insurance is needed when you apply for a Super Visa for your family, parents or grand-parents.</span></h5>
                     <div class="btns d-flex">
                         <div class="details">
                             <a href="" class=" btn-lg"><i class="fa fa-search mr-3"></i>Have any Question?</a>
@@ -44,55 +44,54 @@ include 'app_url.php';
                 </div>
             </div>
             <div class="col-md-6">
-                <div class="hero-image">
+                <div class="hero-image super-images">
                     <img src="assets/img/images/visa1.gif">
                 </div>
             </div>
             </div>
-            <div class="row">
-                <div class="col-md-12">
-                    
-            <div class="card date-card">
-                <div class="card-body">
-                    <form method="post" action="#">
-                        <div class="container-homepage">
-                        <div class="row">
-                            <div class="col-md-2">
-                                <select class="form-control">
-                                    <option>Desination</option>
-                                    <option>Pakistan</option>
-                                    <option>India </option>
-                                    <option>Afghanistan</option>
-                                    <option>America</option>
-                                    <option>Dubai</option>
-                                </select>
-                            </div>
-                            <div class="col-md-4">
-                                <select class="form-control">
-                                    <option>Travel Information</option>
-                                    <option>Pakistan</option>
-                                    <option>India </option>
-                                    <option>Afghanistan</option>
-                                    <option>America</option>
-                                    <option>Dubai</option>
-                                </select>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="input-group mb-3">
-                                    <input type="text" class="form-control nice-select"id="fromDate" placeholder="Start Date">
-                                    <input type="text" id="toDate" class="form-control nice-select" placeholder="End Date" aria-label="Server">
+            <!-- <div class="row">
+                <div class="col-md-12">    
+                    <div class="card date-card">
+                        <div class="card-body">
+                            <form method="post" action="#">
+                                <div class="container-homepage">
+                                <div class="row">
+                                    <div class="col-md-2">
+                                        <select class="form-control">
+                                            <option>Desination</option>
+                                            <option>Pakistan</option>
+                                            <option>India </option>
+                                            <option>Afghanistan</option>
+                                            <option>America</option>
+                                            <option>Dubai</option>
+                                        </select>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <select class="form-control">
+                                            <option>Travel Information</option>
+                                            <option>Pakistan</option>
+                                            <option>India </option>
+                                            <option>Afghanistan</option>
+                                            <option>America</option>
+                                            <option>Dubai</option>
+                                        </select>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="input-group mb-3">
+                                            <input type="text" class="form-control nice-select"id="fromDate" placeholder="Start Date">
+                                            <input type="text" id="toDate" class="form-control nice-select" placeholder="End Date" aria-label="Server">
+                                        </div>
+                                    </div>
+                                    <div class="col-md-2">
+                                        <a href="#" class="btn btn-secondary btn-quote mt-2">Get Quotes</a>
+                                    </div>
                                 </div>
-                            </div>
-                            <div class="col-md-2">
-                                <a href="#" class="btn btn-secondary btn-quote mt-2">Get Quotes</a>
-                            </div>
+                                </div>
+                            </form>
                         </div>
-                        </div>
-                    </form>
+                    </div>
                 </div>
-            </div>
-                </div>
-            </div>
+            </div> -->
     </div>
 </div>
 <section class="ptb-100 first-section-of-page">
