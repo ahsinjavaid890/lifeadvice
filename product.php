@@ -13,7 +13,7 @@ include 'app_url.php';
 
 <body class="body-five" style="background-color:#f4f7fa;">
 <?php include 'include/head.php';?>
-<div class="health-inssurance-hero-banner" style="background-color: #10d7ac;">
+<div class="health-inssurance-hero-banner" style="background-color: #262566;">
    <div class="container">
       <div class="row">
          <div class="col-md-6" style="margin-top: 100px;">
