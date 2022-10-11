@@ -8199,9 +8199,9 @@ left: 95px;
 } 
 
 .check-image img{
-    box-shadow: 10px 10px 10px;
-    border-radius: 95px;
-    width: 110px;
+    width: 100px;
+    height: 100px;
+    margin: auto;
 }
 .check-image{
     text-align: center;
