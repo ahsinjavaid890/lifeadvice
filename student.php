@@ -220,7 +220,7 @@ include 'app_url.php';
    <hr>
    <div class="row mt-5 pb-5">
        <div class="col-md-4">
-           <div class="card product-card">
+           <div class="card slider-card border-0">
                <div class="card-body">
                    <div class="check-image">
                        <img src="assets/img/images/people-travel.png">
@@ -234,7 +234,7 @@ include 'app_url.php';
            </div>
        </div>
        <div class="col-md-4">
-           <div class="card product-card">
+           <div class="card slider-card border-0">
                <div class="card-body">
                    <div class="check-image">
                        <img src="assets/img/images/circle-travel.png">
@@ -248,7 +248,7 @@ include 'app_url.php';
            </div>
        </div>
        <div class="col-md-4">
-           <div class="card  product-card">
+           <div class="card slider-card border-0">
                <div class="card-body">
                    <div class="check-image">
                        <img src="assets/img/images/scholarship.png">
