@@ -11291,3 +11291,6 @@ ul.tabs li.current{
         font-size: 22px !important;
     }
 }
+.mean-container a.meanmenu-reveal{
+    padding: 12px 15px 0 0 !important;
+}
