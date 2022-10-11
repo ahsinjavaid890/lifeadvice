@@ -22,17 +22,12 @@ include 'app_url.php';
 </style>
 <body class="body-five">
         <?php include'include/head.php'?>
-    <div class="health-inssurance-hero-banner pt-5">          
+    <div class="health-inssurance-hero-banner pt-5" style="background-color: #262566;">          
     <div class="container-homepage">
         <div class="row">
             <div class="col-md-6">
                 <div class="herrotext">
-                    <h2 class="wow fadeInUp" data-wow-delay=".4s"><span>Get In </span>Touch</h2>
-                    <div class="btns d-flex">
-                        <div class="details">
-                            <a href="" class=" btn-lg"><i class="fa fa-search mr-3"></i>Have any Question?</a>
-                        </div>
-                    </div>
+                    <h2 style="font-size: 3rem;" class="wow fadeInUp  text-white" data-wow-delay=".4s">Contact Us</h2>
                 </div>
             </div>
             <div class="col-md-6">

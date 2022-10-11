@@ -9,7 +9,7 @@ include 'app_url.php';
 </head>
 <body class="body-five">
 <?php include 'include/head.php';?>
-<div class="health-inssurance-hero-banner pt-5">          
+<div class="health-inssurance-hero-banner pt-5" style="background-color: #262566;">          
     <div class="container-homepage">
         <div class="row">
             <style type="text/css">
@@ -22,7 +22,7 @@ include 'app_url.php';
             </style>
             <div class="col-md-6">
                 <div class="herrotext">
-                    <h2 class="wow fadeInUp" data-wow-delay=".4s"><span>Privacy</span> Policy</h2>
+                    <h2 style="font-size: 3rem;" class="wow fadeInUp  text-white" data-wow-delay=".4s">Privacy Policy</h2>
                 </div>
             </div>
             <div class="col-md-6">
@@ -34,10 +34,6 @@ include 'app_url.php';
     </div>
 </div>
 <div class="container-fluid py-5">
-
-
-
-
 <div class="container policy">
 <div class="row pb-2">
 <h2 class="privacy-heading"><span>Your Privacy </span>at a Glace</h2>

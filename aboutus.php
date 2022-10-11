@@ -10,14 +10,14 @@ include 'app_url.php';
 
 <body class="body-five">
 <?php include 'include/head.php';?>
-<div class="health-inssurance-hero-banner pt-5">          
+<div class="health-inssurance-hero-banner pt-5" style="background-color: #262566;">          
     <div class="container-homepage">
         <div class="row">
             <div class="col-md-6">
                 <div class="herrotext">
-                    <h2 class="wow fadeInUp" data-wow-delay=".4s"><span>About Our  </span>Story</h2>
-                    <h5 class="wow fadeInUp  text-justify" data-wow-delay=".6s"><span>Life Advice Insurance Inc. has been providing superior insurance throughout Ontario for over a century. Our commitment to building long-term relationships and customer loyalty remains at the forefront of everything we do.</span></h5>
-                    <div class="hero-about-text">What Makes Life Advice Extra Smart?</div>
+                    <h2 style="font-size: 3rem; color: white;" class="wow fadeInUp text-white" data-wow-delay=".4s">About Our Story</h2>
+                    <h5 class="wow fadeInUp  text-justify text-white" data-wow-delay=".6s">Life Advice Insurance Inc. has been providing superior insurance throughout Ontario for over a century. Our commitment to building long-term relationships and customer loyalty remains at the forefront of everything we do.</h5>
+                    <div class="hero-about-text text-white">What Makes Life Advice Extra Smart?</div>
                     <div class="btns d-flex">
                         <div class="details">
                             <a href="" class=" btn-lg"><i class="fa fa-search mr-3"></i>Have any Question?</a>
@@ -29,23 +29,6 @@ include 'app_url.php';
                 <div class="hero-image">
                     <img src="assets/img/images/mainhero.gif">
                 </div>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="finding-right">
-    <div class="container-homepage">
-        <div class="row aboutussecondrow">
-            <div class="col-md-2">
-                <img src="assets/img/images/png-17.png">
-            </div>
-            <div class="col-md-8">
-                <h1 class="wow fadeInUp" data-wow-delay=".4s"> <span> Finding Right Coverage</h1>
-                <p>Finding the right coverage can be difficult, which is why we take pride in assisting our customers to navigate coverage options by providing custom-tailored insurance solutions. We offer Life Insurance, Health insurance, Travel Insurance, employee health benefits, group health insurance and Investment products– protecting everything that matters to you!</p>
-                <p>We know that life can throw us all curveballs and that there can be bumps along the way, which is why it is crucial for us to ensure our clients are safeguarded against these unexpected turns. Furthermore, we know our clients work hard for the success they have achieved. Thus, it is extremely important to minimize tax and retain as much of their earnings as possible.</p>
-            </div>
-            <div class="col-md-2">
-                <img src="assets/img/images/png-18.png">
             </div>
         </div>
     </div>
@@ -79,6 +62,23 @@ include 'app_url.php';
                         </div>
                         <p>Our goal is to empower you to make informed financial choices through education and then match you with the right financial solutions that can help you achieve your financial goals. Create best value for Customers, Shareholders and all Stake holders Achieve impeccable reputation and credentials through best business practice.</p>
                     </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="finding-right">
+        <div class="container-homepage">
+            <div class="row aboutussecondrow">
+                <div class="col-md-2">
+                    <img src="assets/img/images/png-17.png">
+                </div>
+                <div class="col-md-8">
+                    <h1 class="wow fadeInUp" data-wow-delay=".4s"> <span> Finding Right Coverage</h1>
+                    <p>Finding the right coverage can be difficult, which is why we take pride in assisting our customers to navigate coverage options by providing custom-tailored insurance solutions. We offer Life Insurance, Health insurance, Travel Insurance, employee health benefits, group health insurance and Investment products– protecting everything that matters to you!</p>
+                    <p>We know that life can throw us all curveballs and that there can be bumps along the way, which is why it is crucial for us to ensure our clients are safeguarded against these unexpected turns. Furthermore, we know our clients work hard for the success they have achieved. Thus, it is extremely important to minimize tax and retain as much of their earnings as possible.</p>
+                </div>
+                <div class="col-md-2">
+                    <img src="assets/img/images/png-18.png">
                 </div>
             </div>
         </div>
