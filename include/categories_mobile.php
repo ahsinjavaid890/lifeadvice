@@ -12,7 +12,10 @@
     height: 210px !important;
    }
    .find-all-products h3 {
-    font-size: 20px;
+    font-size: 13px;
+   }
+   .find-all-products h3 .products-arrow {
+    width: 30px;
    }
 </style>
 <section class="card-slide">
