@@ -11264,3 +11264,9 @@ ul.tabs li.current{
         color: black;
     }
 }
+@media only screen and (min-width: 11.0px) and (max-width: 1350px) {
+    .text-section .herrotext h2{
+        font-size: 28px !important;
+    }
+
+}
