@@ -11233,3 +11233,19 @@ ul.tabs li.current{
    color: #262566;
    -webkit-appearance: none;
 }
+@media only screen and (min-width: 1350px) and (max-width: 1650px) {
+    .text-section .herrotext h2{
+        font-size: 36px !important;
+    }
+    .slider-heading h2 span{
+        font-size: 26px !important;
+    }
+    .board-image{
+        width: 47px !important;
+    }
+    .insurance-product-right-image {
+    position: absolute;
+    right: 0;
+    top: 3925px !important;
+}
+}
