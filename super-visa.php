@@ -45,14 +45,14 @@ include 'app_url.php';
             </div>
             <div class="col-md-6 hero-images">
                 <div class="hero-image super-images" style=" background-image: url(assets/img/images/visa1.gif);
-    background-position: center center;
-    background-size: cover;
+    background-position: 50% 50%;
+    background-size: 100%;
     background-repeat: no-repeat;">
 <!--                     <img src="assets/img/images/visa1.gif"> -->
                 </div>
             </div>
             </div>
-            <!-- <div class="row">
+            <div class="row">
                 <div class="col-md-12">    
                     <div class="card date-card">
                         <div class="card-body">
@@ -94,7 +94,7 @@ include 'app_url.php';
                         </div>
                     </div>
                 </div>
-            </div> -->
+            </div>
     </div>
 </div>
 <section class="ptb-100 first-section-of-page">
