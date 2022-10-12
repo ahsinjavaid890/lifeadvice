@@ -240,7 +240,7 @@ Default Btn Area Style*/
     border: none;
     box-shadow: 0 0px 8px rgb(87 106 134 / 20%);
     position: relative;
-    top: 65px;
+    top: 140px;
 }
 .vector-contact img{
     width: 300px;
@@ -8106,6 +8106,11 @@ left: 95px;
     color: white;
 }
 .health-inssurance-hero-banner{
+    padding: 40px 50px 40px 15px;
+    margin-top: 70px;
+    color: white;
+}
+.health-inssurance-hero-banners {
     /*padding: 40px 50px 40px 15px;*/
     margin-top: 70px;
     color: white;
@@ -11241,6 +11246,17 @@ ul.tabs li.current{
     right: -101px !important;
     height: 465px !important;
     } 
+
+    .super-hero {
+    height: 465px !important;
+    }
+    .date-card {
+    border-radius: 25px;
+    border: none;
+    box-shadow: 0 0px 8px rgb(87 106 134 / 20%);
+    position: relative;
+    top: 65px !important;
+    }
 }
 
 @media only screen and (min-width: 1350px) and (max-width: 1650px) {
@@ -11258,6 +11274,16 @@ ul.tabs li.current{
     position: absolute;
     right: -101px !important;
     height: 465px !important;
+    }
+    .super-hero {
+    height: 465px !important;
+    }
+    .date-card {
+    border-radius: 25px;
+    border: none;
+    box-shadow: 0 0px 8px rgb(87 106 134 / 20%);
+    position: relative;
+    top: 65px !important;
     }
     .insurance-product-right-image {
     position: absolute;
@@ -11500,10 +11526,10 @@ ul.tabs li.current{
     width: 1390px;
     position: absolute;
     right: -101px;
-    height: 465px;
+    height: 510px;
 }
 .super-hero{
-    height: 465px;
+    height: 510px;
 }
 .hero-texts{
     padding: 40px 50px 40px 15px;

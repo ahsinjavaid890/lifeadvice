@@ -29,7 +29,7 @@ include 'app_url.php';
 </style>
 <body class="body-five">
 <?php include 'include/head.php';?>
-<div class="health-inssurance-hero-banner super-hero">          
+<div class="health-inssurance-hero-banners super-hero">          
     <div class="container-homepage">
         <div class="row mb-3">
             <div class="col-md-6 hero-texts">
