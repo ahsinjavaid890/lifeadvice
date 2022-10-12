@@ -8112,7 +8112,7 @@ left: 95px;
 }
 .health-inssurance-hero-banners {
     /*padding: 40px 50px 40px 15px;*/
-    background-color: #262566;
+        background-color: #262566;
     margin-top: 70px;
     color: white;
 }
@@ -11313,8 +11313,14 @@ ul.tabs li.current{
     .super-images {
     width: 885px !important;
     position: absolute;
-    right: -101px;
-    height: 464px;
+    right: -102px !important;
+    height: 509px !important;
+    }
+    .super-hero {
+    height: 487px !important;
+    }
+    .date-card{
+        top: 90px !important;
     }
 
 }
