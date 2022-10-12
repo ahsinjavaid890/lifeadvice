@@ -11577,6 +11577,9 @@ ul.tabs li.current{
     .btns{
         display: none !important;
     }
+    .slider-card{
+        margin-top: 10px;
+    }
     .super-hero-text {
         margin-top: 300px ;
     }
