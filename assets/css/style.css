@@ -11242,10 +11242,11 @@ ul.tabs li.current{
 }
 @media only screen and (min-width: 1650px) and (max-width: 1850px) {
     .super-images {
-    width: 1205px !important;
+    width: 1157px !important;
     position: absolute;
     right: -101px !important;
     height: 465px !important;
+    background-position: 50% 93% !important;
     } 
 
     .super-hero {
@@ -11256,7 +11257,7 @@ ul.tabs li.current{
     border: none;
     box-shadow: 0 0px 8px rgb(87 106 134 / 20%);
     position: relative;
-    top: 65px !important;
+    top: 42px !important;
     }
 }
 @media only screen and (min-width: 1515px) and (max-width: 1650px) {
@@ -11265,7 +11266,9 @@ ul.tabs li.current{
     position: absolute;
     right: -101px !important;
     height: 465px !important;
+    background-position: 50% 75% !important;
     }
+
 }
 @media only screen and (min-width: 1350px) and (max-width: 1515px) {
  .super-images {
