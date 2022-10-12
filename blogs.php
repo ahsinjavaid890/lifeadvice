@@ -31,7 +31,7 @@ if(isset($_GET['category_id']))
          </div>
          <div class="col-md-6">
             <div class="hero-image">
-               <img src="assets/img/images/blogs.gif">
+               <img src="assets/img/blog/blogsheader.png">
             </div>
          </div>
       </div>
