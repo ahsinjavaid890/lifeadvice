@@ -11268,6 +11268,12 @@ ul.tabs li.current{
     .text-section .herrotext h2{
         font-size: 28px !important;
     }
+    .super-images {
+    width: 885px !important;
+    position: absolute;
+    right: -101px;
+    height: 464px;
+    }
 
 }
 @media only screen and (min-width: 300px) and (max-width: 450px) {
@@ -11315,10 +11321,10 @@ ul.tabs li.current{
 }
 @media only screen and (min-width: 770px) and (max-width: 1300px){
     .super-images {
-    width: 702px !important;
+    width: 886px !important;
     position: absolute;
-    right: -101px;
-    height: 370px !important;
+    right: -101px !important;
+    height: 466px !important;
 }
 }
 @media only screen and (min-width: 700px) and (max-width: 770px){
@@ -11391,12 +11397,15 @@ ul.tabs li.current{
 .super-text{
     max-width: 90%;
 }
-.super-images{
-    width: 920px;
+.super-images {
+    width: 980px;
     position: absolute;
     right: -101px;
-    height: 370px;
+    height: 465px;
 }
 .super-hero{
-    height: 370px;
+    height: 465px;
+}
+.hero-texts{
+    padding: 40px 50px 40px 15px;
 }
