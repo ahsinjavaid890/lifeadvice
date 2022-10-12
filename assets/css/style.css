@@ -11240,15 +11240,6 @@ ul.tabs li.current{
     }
     .slider-heading h2 span{
         font-size: 26px !important;
-    }   
-    .super-images{
-        width: 920px !important;
-        position: absolute;
-        right: -101px;
-        height: 335px !important;
-    }
-    .super-hero{
-        height: 328px !important;
     }
     .board-image{
         width: 47px !important;
@@ -11278,6 +11269,23 @@ ul.tabs li.current{
         font-size: 28px !important;
     }
 
+}
+@media only screen and (min-width: 430px) and (max-width: 450px) {
+    .super-hero{
+        height: 450px !important;
+    }
+}
+@media only screen and (min-width: 300px) and (max-width: 430px) { 
+    .super-hero{
+        height: 370px !important;
+    }
+    .super-images {
+    left: -181px;
+    width: 555px !important;
+    position: absolute;
+    right: 0px !important;
+    height: 259px !important;
+}
 }
 @media only screen and (min-width: 300px) and (max-width: 450px) {
     .text-section .herrotext h2{
@@ -11334,17 +11342,25 @@ ul.tabs li.current{
 }
 .heroSlider-fixed .slick-slide{
     width: 130px !important;
+}.super-images {
+    width: 100% !important;
+    position: absolute;
+    right: 0px !important;
+    height: 189px !important;
 }
+/*.super-hero{
+    height: 450px !important;
+}*/
 }
 .super-text{
     max-width: 90%;
 }
-.super-images {
-    width: 1395px;
+.super-images{
+    width: 920px;
     position: absolute;
     right: -101px;
-    height: 390px;
+    height: 377px;
 }
-.super-hero {
-    height: 383px;
+.super-hero{
+    height: 370px;
 }
