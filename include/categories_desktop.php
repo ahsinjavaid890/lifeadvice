@@ -161,7 +161,7 @@
             <div class="card slider-card border-0">
                <div class="card-body text-center">
                   <div class="simple-online-transparent-slider">
-                     <img src="assets/img/images/bed.png">
+                     <img src="assets/img/images/icon-student-super-visa-.png">
                   </div>
                   <div class="slider-heading">
                      <h2><span>Students </span> Insurance</h2>
@@ -176,7 +176,7 @@
             <div class="card slider-card border-0">
                <div class="card-body text-center">
                   <div class="simple-online-transparent-slider">
-                     <img src="assets/img/images/bed.png">
+                     <img src="assets/img/images/travel-icon.png">
                   </div>
                   <div class="slider-heading">
                      <h2><span>Travel</span> Insurance</h2>
