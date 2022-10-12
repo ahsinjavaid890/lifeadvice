@@ -11265,7 +11265,7 @@ ul.tabs li.current{
         font-size: 36px !important;
     }
     .slider-heading h2 span{
-        font-size: 26px !important;
+        font-size: 29px !important;
     }
     .board-image{
         width: 47px !important;
@@ -11343,6 +11343,9 @@ ul.tabs li.current{
         right: 0px !important;
         height: 262px !important;
     }
+    .mobile-nav .logo {
+    width: 140px !important;
+    }
     .super-hero{
         height: 370px !important;
     }
@@ -11353,6 +11356,18 @@ ul.tabs li.current{
     font-size: 22px !important;
     }
     .calculate-heading h2{
+        font-size: 22px !important;
+    }
+    .policies-heading h2{
+        font-size: 22px !important;
+    }
+    .faq .card-header .btn-link.collapsed {
+    font-size: 15px;
+    }
+    .slider-heading h2{
+        font-size: 22px !important;
+    }
+    .slider-heading h2 span{
         font-size: 22px !important;
     }
     .calculate-heading h2 span{
@@ -11385,6 +11400,19 @@ ul.tabs li.current{
     }
     .travel-medical-heading2 h2 {
     font-size: 22px !important;
+    }
+
+    .faq .card-header .btn-link.collapsed {
+    font-size: 15px;
+    }
+    .slider-heading h2{
+        font-size: 22px !important;
+    }
+    .slider-heading h2 span{
+        font-size: 22px !important;
+    }
+    .mobile-nav .logo {
+    width: 140px !important;
     }
     .super-images {
         width: 595px !important;
@@ -11549,7 +11577,7 @@ ul.tabs li.current{
     .btns{
         display: none !important;
     }
-    .herrotext {
+    .super-hero-text {
         margin-top: 300px ;
     }
     .hero-texts{
