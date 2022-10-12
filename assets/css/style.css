@@ -11525,9 +11525,9 @@ ul.tabs li.current{
     .date-card{
         display: none!important;
     }
-    .step_name{
+/*    .step_name{
         font-size: 10px !important;
-    }
+    }*/
     .hero-texts {
      padding: 0px !important; 
     }
