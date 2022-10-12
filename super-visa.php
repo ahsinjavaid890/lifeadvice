@@ -45,7 +45,7 @@ include 'app_url.php';
             </div>
             <div class="col-md-6 hero-images">
                 <div class="hero-image super-images" style=" background-image: url(assets/img/images/visa1.gif);
-    background-position: 50% 50%;
+    background-position: 50% 70%;
     background-size: 100%;
     background-repeat: no-repeat;">
 <!--                     <img src="assets/img/images/visa1.gif"> -->
