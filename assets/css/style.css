@@ -11346,6 +11346,24 @@ ul.tabs li.current{
     .super-hero{
         height: 370px !important;
     }
+    .travel-medical-heading h2 {
+    font-size: 22px !important;
+    }
+    .travel-medical-heading2 h2 {
+    font-size: 22px !important;
+    }
+    .calculate-heading h2{
+        font-size: 22px !important;
+    }
+    .calculate-heading h2 span{
+        font-size: 22px !important;
+    }
+    .step_name {
+    font-size: 20px !important;
+    }
+    .card.transparent-card{
+        padding: 30px 0 0 0 !important ;
+    }
 }
 @media only screen and (min-width: 570px) and (max-width: 670px){
 .super-images {
@@ -11362,11 +11380,29 @@ ul.tabs li.current{
     .mean-container .mean-bar{
         height: 50px !important;
     }
+    .travel-medical-heading h2 {
+    font-size: 22px !important;
+    }
+    .travel-medical-heading2 h2 {
+    font-size: 22px !important;
+    }
     .super-images {
         width: 595px !important;
         position: absolute;
         right: 0px !important;
         height: 262px !important;
+    }
+    .calculate-heading h2{
+        font-size: 22px !important;
+    }
+    .calculate-heading h2 span{
+        font-size: 22px !important;
+    }
+    .step_name {
+    font-size: 20px !important;
+    }
+    .card.transparent-card{
+        padding: 30px 0 0 0 !important ;
     }
     .mobile-nav.mean-container .mean-nav {
         margin-top: 50px !important;
