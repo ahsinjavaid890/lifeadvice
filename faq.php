@@ -76,11 +76,11 @@ include 'app_url.php';
                         <h3>Critical Illness</h3>
                      </li>
                      <li class="tab-link" data-tab="tab-5">
-                        <img src="assets/img/images/piggy.png" alt="Life-insurance-icon-resp">
+                        <img src="assets/img/images/rrsp-icon.png" alt="Life-insurance-icon-resp">
                         <h3>RRSP</h3>
                      </li>
                      <li class="tab-link" data-tab="tab-6">
-                        <img src="assets/img/images/circle-travel.png" alt="Life-insurance-icon-travel">
+                        <img src="assets/img/images/resp-icon.png" alt="Life-insurance-icon-travel">
                         <h3>RSEP</h3>
                      </li>
                      <li class="tab-link" data-tab="tab-7">
@@ -88,11 +88,11 @@ include 'app_url.php';
                         <h3>Travel Insurance</h3>
                      </li>
                      <li class="tab-link" data-tab="tab-8">
-                        <img src="assets/img/images/circle-travel.png" alt="Life-insurance-icon-travel">
+                        <img src="assets/img/images/tfsa-icon.png" alt="Life-insurance-icon-travel">
                         <h3>Super Visa Insurance</h3>
                      </li>
                      <li class="tab-link" data-tab="tab-9">
-                        <img src="assets/img/images/circle-travel.png" alt="Life-insurance-icon-travel">
+                        <img src="assets/img/images/fsha-icon.png" alt="Life-insurance-icon-travel">
                         <h3>Visitor Insurance</h3>
                      </li>
                      <li class="tab-link" data-tab="tab-10">
