@@ -32,8 +32,8 @@ include 'app_url.php';
 <div class="health-inssurance-hero-banner super-hero">          
     <div class="container-homepage">
         <div class="row mb-3">
-            <div class="col-md-6">
-                <div class="herrotext">
+            <div class="col-md-6 hero-texts">
+                <div class="herrotext super-hero-text">
                     <h2 class="wow fadeInUp" data-wow-delay=".4s"><span class="text-white">Super Visa </span> Insurance</h2>
                     <h5 class="wow fadeInUp  text-justify super-text" data-wow-delay=".6s"><span class="text-white">Super Visa Insurance is needed when you apply for a Super Visa for your family, parents or grand-parents.</span></h5>
                     <div class="btns d-flex">
@@ -43,9 +43,12 @@ include 'app_url.php';
                     </div>
                 </div>
             </div>
-            <div class="col-md-6">
-                <div class="hero-image super-images">
-                    <img src="assets/img/images/visa1.gif">
+            <div class="col-md-6 hero-images">
+                <div class="hero-image super-images" style=" background-image: url(assets/img/images/visa1.gif);
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;">
+<!--                     <img src="assets/img/images/visa1.gif"> -->
                 </div>
             </div>
             </div>
