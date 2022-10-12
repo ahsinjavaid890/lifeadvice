@@ -11234,6 +11234,15 @@ ul.tabs li.current{
    color: #262566;
    -webkit-appearance: none;
 }
+@media only screen and (min-width: 1650px) and (max-width: 1850px) {
+    .super-images {
+    width: 1274px !important;
+    position: absolute;
+    right: -101px !important;
+    height: 465px !important;
+    } 
+}
+
 @media only screen and (min-width: 1350px) and (max-width: 1650px) {
     .text-section .herrotext h2{
         font-size: 36px !important;
@@ -11243,6 +11252,12 @@ ul.tabs li.current{
     }
     .board-image{
         width: 47px !important;
+    }
+    .super-images {
+    width: 990px !important;
+    position: absolute;
+    right: -101px !important;
+    height: 465px !important;
     }
     .insurance-product-right-image {
     position: absolute;
@@ -11395,10 +11410,10 @@ ul.tabs li.current{
 }*/
 }
 .super-text{
-    max-width: 90%;
+    max-width: 80%;
 }
 .super-images {
-    width: 980px;
+    width: 1390px;
     position: absolute;
     right: -101px;
     height: 465px;
