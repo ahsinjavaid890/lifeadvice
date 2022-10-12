@@ -11259,7 +11259,22 @@ ul.tabs li.current{
     top: 65px !important;
     }
 }
-
+@media only screen and (min-width: 1515px) and (max-width: 1650px) {
+.super-images {
+    width: 1080px !important;
+    position: absolute;
+    right: -101px !important;
+    height: 465px !important;
+    }
+}
+@media only screen and (min-width: 1350px) and (max-width: 1515px) {
+ .super-images {
+    width: 990px !important;
+    position: absolute;
+    right: -101px !important;
+    height: 465px !important;
+    }
+}
 @media only screen and (min-width: 1350px) and (max-width: 1650px) {
     .text-section .herrotext h2{
         font-size: 36px !important;
@@ -11270,12 +11285,7 @@ ul.tabs li.current{
     .board-image{
         width: 47px !important;
     }
-    .super-images {
-    width: 990px !important;
-    position: absolute;
-    right: -101px !important;
-    height: 465px !important;
-    }
+   
     .super-hero {
     height: 465px !important;
     }

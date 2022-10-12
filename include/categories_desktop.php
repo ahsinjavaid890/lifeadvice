@@ -71,7 +71,7 @@
             <div class="card slider-card border-0">
                <div class="card-body text-center">
                   <div class="simple-online-transparent-slider">
-                     <img src="assets/img/images/health.png">
+                     <img src="assets/img/images/resp-icon.png">
                   </div>
                   <div class="slider-heading">
                      <h2><span>RESP</span></h2>
@@ -86,7 +86,7 @@
             <div class="card slider-card border-0">
                <div class="card-body text-center">
                   <div class="simple-online-transparent-slider">
-                     <img src="assets/img/images/health.png">
+                     <img src="assets/img/images/rrsp-icon.png">
                   </div>
                   <div class="slider-heading">
                      <h2><span>RRSP</span></h2>
@@ -101,7 +101,7 @@
             <div class="card slider-card border-0">
                <div class="card-body text-center">
                   <div class="simple-online-transparent-slider">
-                     <img src="assets/img/images/health.png">
+                     <img src="assets/img/images/tfsa-icon.png">
                   </div>
                   <div class="slider-heading">
                      <h2><span>TFSA</span></h2>
@@ -116,7 +116,7 @@
             <div class="card slider-card border-0">
                <div class="card-body text-center">
                   <div class="simple-online-transparent-slider">
-                     <img src="assets/img/images/health.png">
+                     <img src="assets/img/images/fsha-icon.png">
                   </div>
                   <div class="slider-heading">
                      <h2><span>FHSA</span></h2>
