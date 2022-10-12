@@ -19,7 +19,7 @@ include 'app_url.php';
          </div>
          <div class="col-md-6">
             <div class="hero-image">
-               <img src="assets/img/images/contact.png">
+               <img src="assets/img/privacypolicy/header.gif">
             </div>
          </div>
       </div>

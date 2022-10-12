@@ -102,7 +102,7 @@ include 'app_url.php';
         <div class="row">
             <div class="col-md-6 image-center">
                 <div class="student-medical-image">
-                    <img src="assets/img/images/visa3.png">
+                    <img src="assets/img/images/visa3.gif">
                 </div>
             </div>
             <div class="col-md-6">
